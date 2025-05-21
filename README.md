@@ -39,7 +39,7 @@ Aqui estão algumas imagens que mostram o funcionamento do bot:
 
 1. Clone o repositório:
    ```bash
-   git clone [URL_DO_REPOSITORIO]
+   git clone https://github.com/vinibotelho1998/NEW-BOT-DISCORD-PY
    cd Discordvini
    ```
 
