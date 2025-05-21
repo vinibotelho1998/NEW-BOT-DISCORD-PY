@@ -7,17 +7,17 @@ Um bot de Discord que permite criar lembretes recorrentes e configurar exclusão
 Aqui estão algumas imagens que mostram o funcionamento do bot:
 
 ### 1. Criando um Lembrete e recorrência
-![Criando Lembrete](https://github.com/user-attachments/assets/aa3996d3-3efb-4609-a8c7-54276a0ceef5)
+![Image](https://github.com/user-attachments/assets/c46d8ebb-909b-4a8b-a52a-d12a764fe1f5)
 
 ### 2. Online no discord
-![Lembrete Ativado](https://github.com/user-attachments/assets/9f6e2b22-c42f-4e06-a944-8beed2b64785)
+[Image](https://github.com/user-attachments/assets/73e825aa-0e7b-4d47-aabd-b768adb9c655)
 
 ### 3. Seleção do canal
-![Exclusão Automática](https://github.com/user-attachments/assets/c7e985e5-4f63-492b-91c3-487fd7c8ab5f)
+![Image](https://github.com/user-attachments/assets/ce9a97ee-8a6a-4f30-96d6-b72ee57a9d50)
 
 
 ### 4. Lista de comandos disponiveis
-![Lista de Lembretes](https://github.com/user-attachments/assets/e08b92be-1236-4baa-90b6-0edd8f2c02d5)
+![Image](https://github.com/user-attachments/assets/e0e0aeda-da1f-4ef6-9731-4ca3181059b7)
 
 
 ## Funcionalidades
