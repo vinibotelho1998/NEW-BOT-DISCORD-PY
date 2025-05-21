@@ -10,7 +10,7 @@ Aqui estão algumas imagens que mostram o funcionamento do bot:
 ![Image](https://github.com/user-attachments/assets/c46d8ebb-909b-4a8b-a52a-d12a764fe1f5)
 
 ### 2. Online no discord
-[Image](https://github.com/user-attachments/assets/73e825aa-0e7b-4d47-aabd-b768adb9c655)
+![Image](https://github.com/user-attachments/assets/73e825aa-0e7b-4d47-aabd-b768adb9c655)
 
 ### 3. Seleção do canal
 ![Image](https://github.com/user-attachments/assets/ce9a97ee-8a6a-4f30-96d6-b72ee57a9d50)
